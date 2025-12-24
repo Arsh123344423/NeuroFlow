@@ -37,5 +37,5 @@ NeuroFlow uses a **"Rule of Two"** implementation to ensure enterprise scalabili
 ### Installation
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/your-username/neuroflow-enterprise.git](https://github.com/your-username/neuroflow-enterprise.git)
-   cd neuroflow-enterprise
+   git clone [https://github.com/Arsh123344423/neuroflow.git](https://github.com/Arsh123344423/neuroflow.git)
+   cd neuroflow
