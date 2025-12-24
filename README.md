@@ -1,7 +1,5 @@
-# NeuroFlow
-An AI-powered "Cognitive Prosthetic" for the neurodiverse workforce. Built with Next.js, Azure OpenAI, and RAG to bridge the gap between executive dysfunction and corporate productivity.
 # NeuroFlow Enterprise 🧠✨
-> **The AI Cognitive Prosthetic for the Neurodiverse Workforce.**
+> **An AI-powered "Cognitive Prosthetic" for the neurodiverse workforce. Built with Next.js, Azure OpenAI, and RAG to bridge the gap between executive dysfunction and corporate productivity.**
 
 [![Imagine Cup 2026](https://img.shields.io/badge/Imagine%20Cup-2026-blueviolet)](https://imaginecup.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
